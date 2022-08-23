@@ -6,7 +6,7 @@
 
 `2022.2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem por objetivo o desenvolvimento de um aplicativo que forneça uma lista de compras para o cliente, listando estabelecimentos e supermercados com o menor preço total.
 
 ## Integrantes
 
