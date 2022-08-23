@@ -2,7 +2,11 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
+**O projeto tem por objetivo o desenvolvimento de uma aplicação móvel que forneça uma lista de compras para o cliente, listando estabelecimentos e supermercados com o menor preço total em uma localidade próxima do consumidor e na falta de algum produto o aplicativo poderá sugerir um produto similar.**
+
 ## Problema
+**Auxiliar ao consumidor na pesquisa do melhor preço nos supermercados da região, economizando tempo e dinheiro.**
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
