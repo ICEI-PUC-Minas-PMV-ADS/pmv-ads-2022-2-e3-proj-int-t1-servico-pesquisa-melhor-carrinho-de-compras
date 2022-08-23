@@ -1,23 +1,25 @@
 # MELHOR COMPRA
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`2022.2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Breno Anderson da Silva
+* Geovane Vinicius Lacerda Gomes
+* Kenia Maria da Cunha
+* Laís Lima
+* Sabrina Gonçalves de Andrade
+* Werlon elem bicalho de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
