@@ -1,6 +1,6 @@
 # Introdução
 
-O projeto tem por objetivo o desenvolvimento de uma aplicação móvel direcionada ao ramo alimenticio, que forneça uma lista de compras para o cliente, listando estabelecimentos e supermercados com o menor preço total em uma localidade próxima do consumidor.
+O projeto tem por objetivo o desenvolvimento de uma aplicação móvel direcionada ao ramo alimenticio, onde o usuário poderá criar uma lista e a aplicação devolverá todos os valores dos estabelecimentose ou supermercados com o menor preço total em uma localidade próxima do consumidor.
 Na falta de algum produto o aplicativo poderá sugerir um produto similar, apresentando a comparação entre estabelecimentos de menor preço, ajudando assim na economia do tempo e de dinheiro do consumidor final.
 
 ## Problema
