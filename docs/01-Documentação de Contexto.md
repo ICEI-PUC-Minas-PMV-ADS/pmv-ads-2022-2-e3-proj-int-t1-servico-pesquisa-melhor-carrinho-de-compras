@@ -24,4 +24,4 @@ A ideia é criar uma aplicação onde os próprios usuários se ajudassem, onde 
 
 ## Público-Alvo
 
-Consumidores, pessoa física no geral.
+Nosso público se concentra em pessoas físicas engajados com tecnologia e que moram sozinhas ou são chefes de família, que desejam economizar com as compras recorrentes do mês e com o tempo gasto em supermercados.
